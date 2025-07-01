@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Microsoft Azure Fundamentals (AZ-900)<br>Dean’s Honour List (2023-2024)<br>CCNA (in progress)</p>
+<p align="left">Microsoft Azure Fundamentals (AZ-900)<br>Dean’s Honour List (2023-2024)<br>Cisco Certified Network Associate</p>
 
 ###
 
